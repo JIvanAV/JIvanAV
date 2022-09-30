@@ -3,7 +3,7 @@
 ## - 💻Status e Tecnologias usadas aqui no GitHub:
 
 <div>
-  <a href="https://github.com/ViniciusAlves03/">
+  <a href="https://github.com/JIvanAV/">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JIvanAV&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIvanAV&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
