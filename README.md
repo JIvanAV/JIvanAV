@@ -1,6 +1,6 @@
 ## Hello, i'm J. Ivan A.V. 👋🗿
 
-## - 💻Status and Programming Languages used here on GitHub:
+## - 💻Stats and Programming Languages used here on GitHub:
 
 <div>
   <a href="https://github.com/JIvanAV/">
