@@ -1,6 +1,6 @@
-## Olá, eu sou J. Ivan A.V. 👋🗿
+## Hello, i'm J. Ivan A.V. 👋🗿
 
-## - 💻Status e Tecnologias usadas aqui no GitHub:
+## - 💻Status and Technologies used here on GitHub:
 
 <div>
   <a href="https://github.com/JIvanAV/">
@@ -8,13 +8,13 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIvanAV&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-## - 📱Contatos:
+## - 📱Contacts:
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=joseivanabrantes@gmail.com)
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jivanav)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j_ivan_abrantes/)
 
-## - 👨🏻‍💻 Tecnologias conhecidas:
+## - 👨🏻‍💻 Known Technologies:
   <div style="display: inline_block"><br/>
     <img align="center" alt = "Python"      src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img align="center" alt = "C"           src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
@@ -29,4 +29,4 @@
     
 <div/><br/>
     
-## - 📂Certificados Emitidos: [Link](https://drive.google.com/drive/u/1/folders/1obKJBv34W6EzFWkXRQfsLP7_foL2EZhn)
+## - 📂Certificates Issued: [Link](https://drive.google.com/drive/u/1/folders/1obKJBv34W6EzFWkXRQfsLP7_foL2EZhn)
