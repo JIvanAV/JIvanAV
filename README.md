@@ -4,9 +4,9 @@
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=JIvanAV&show_icons=true&theme=github_dark"/>
+<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JIvanAV&show_icons=true&theme=github_dark"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIvanAV&layout=compact&theme=github_dark"/>
+<img height="160em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JIvanAV&layout=compact&theme=github_dark"/>
 
 </div>
 
