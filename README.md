@@ -46,33 +46,11 @@
 ## 📊 Stats and programming languages used here on GitHub
 
 <p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=JIvanAV&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      height="170"
-      alt="José Ivan's GitHub stats"
-      src="https://github-readme-stats.vercel.app/api?username=JIvanAV&show_icons=true&hide_border=true&rank_icon=github"
-    />
-  </picture>
-
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JIvanAV&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-      media="(prefers-color-scheme: dark)"
-    />
-    <img
-      height="170"
-      alt="Most used programming languages on José Ivan's GitHub"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIvanAV&layout=compact&hide_border=true&langs_count=8"
-    />
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JIvanAV&theme=github_dark" alt="José Ivan's GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JIvanAV&theme=github_dark" alt="Most used programming languages on José Ivan's GitHub" />
 </p>
 
 ---
-
 
 ## 📌 Featured focus
 
